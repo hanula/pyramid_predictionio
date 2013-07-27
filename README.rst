@@ -12,9 +12,13 @@ Overview
 Usage examples
 --------------
 
-- Source: https://github.com/hanula/pypkg_template
-- Documentation: https://github.com/hanula/pypkg_template
+.. code-block:: python
+
+    from pypkg_template import foo
+    foo.bar()
 
 Resources
 ----------
 
+- Source: https://github.com/hanula/pypkg_template
+- Documentation: https://github.com/hanula/pypkg_template
