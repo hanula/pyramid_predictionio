@@ -1,4 +1,3 @@
-
 Python Package Template
 =======================
 
@@ -22,3 +21,8 @@ Resources
 
 - Source: https://github.com/hanula/pypkg_template
 - Documentation: https://github.com/hanula/pypkg_template
+
+License
+-------
+
+See `LICENSE <https://github.com/hanula/pypkg_template/blob/master/LICENSE>`_.
