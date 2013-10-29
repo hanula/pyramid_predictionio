@@ -1,28 +1,14 @@
-Python Package Template
-=======================
+PredictionIO Pyramid integration example
+========================================
 
-Here's simple Python package template for easier to get started.
+Example of how to integrate PredictionIO with Pyramid framework.
 
 
-Overview
---------
-...
-
-Usage examples
---------------
-
-.. code-block:: python
-
-    from pypkg_template import foo
-    foo.bar()
-
-Resources
-----------
-
-- Source: https://github.com/hanula/pypkg_template
-- Documentation: https://github.com/hanula/pypkg_template
+Example
+-------
+See `simple_webapp.py <https://github.com/hanula/pyramid_predictionio/blob/master/pyramid_predictionio/examples/simple_webapp.py>`_.
 
 License
 -------
 
-See `LICENSE <https://github.com/hanula/pypkg_template/blob/master/LICENSE>`_.
+See `LICENSE <https://github.com/hanula/pyramid_predictionio/blob/master/LICENSE>`_.

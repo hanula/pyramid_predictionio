@@ -10,9 +10,9 @@ with open('LICENSE') as f:
 
 
 setup(
-    name='pypkg_template',
+    name='pyramid_predictionio',
     version='0.1.0',
-    description='Python package template.',
+    description='PredictionIO pyramid integration example.',
     long_description=readme,
 
     # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
@@ -24,7 +24,7 @@ setup(
     ],
     author='Sebastian Hanula',
     author_email='sebastian.hanula@gmail.com',
-    url='https://github.com/hanula/pypkg_template',
+    url='https://github.com/hanula/pyramid_predictionio',
     license=license,
     packages=find_packages(exclude=('tests', 'docs')),
     include_package_data=True,
